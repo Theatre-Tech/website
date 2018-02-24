@@ -1,6 +1,5 @@
 ---
-layout: page
-title: "Home"
+layout: home
 ---
 
 # Herzlich Willkommen bei Theatre-Tech!
