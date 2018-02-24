@@ -1,5 +1,3 @@
 title: Theatre-Tech
 description: Theatre related documentation and software
-theme: minima
-minima:
-  date_format: "%d.%m.%Y"
+theme: architect
