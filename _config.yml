@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 name: Theatre-Tech
 description: Theatre related documentation and software
 theme: minima
+=======
+theme: jekyll-theme-architect
+>>>>>>> 224d611946e3a1842245c02a38397e607e0f3825
