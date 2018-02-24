@@ -10,4 +10,7 @@ theme_settings:
 
    email_address: info@theatre-tech.net
 
+paginate: 5
+paginate_path: "page/page:num"
+
 plugins: [jekyll-paginate]
