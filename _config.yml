@@ -1,10 +1,9 @@
 remote_theme: rohanchandra/type-theme                     
 
 theme_settings:
-   title: "Theatre-Tech"
+   title: Theatre-Tech
    description: "Theatre related documentation and software"
-   footer_text: >
-            Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a><br>
-    Theatre-Tech, c/o rrbone, Ruhrallee 9, 44139 Dortmund
-
+#   footer_text: >
+#    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a><br>
+#    Theatre-Tech, c/o rrbone, Ruhrallee 9, 44139 Dortmund
    email_address: info@theatre-tech.net
