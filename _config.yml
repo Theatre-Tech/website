@@ -1,6 +1,6 @@
 remote_theme: rohanchandra/type-theme                     
 
-theme:
+theme_settings:
    title: Theatre-Tech
    description: Theatre related documentation and software
    footer_text: >
